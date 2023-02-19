@@ -9,3 +9,4 @@ with open("txt de prueba.txt") as file_objet:
     print(leer)
     #  print(leerrstrip()) con esto borramos los espacios en blanco (Saltos de linea sin nada en ella)
     
+#Más tarde seguire avanzando
